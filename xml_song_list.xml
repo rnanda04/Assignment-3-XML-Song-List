@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml-song-list-style.css"?>
+<music>
+	<title>Assignment 3: XML Song List</title>
+	<song>
+		<genre>Hip Hop</genre>
+		<name>Fair Trade</name>
+		<artist>Drake and Travis Scott</artist>
+		<year>2021</year>
+	</song>
+	<song>
+		<genre>Jazz</genre>
+		<name>The Way You Look Tonight</name>
+		<artist>Frank Sinatra</artist>
+		<year>1961</year>
+	</song>
+	<song>
+		<genre>Baroque Pop</genre>
+		<name>Viva La Vida</name>
+		<artist>Coldplay</artist>
+		<year>2008</year>
+	</song>
+	<song>
+		<genre>Hip Hop</genre>
+		<name>Earfquake</name>
+		<artist>Tyler, the Creator</artist>
+		<year>2019</year>
+	</song>
+	<song>
+		<genre>Rock</genre>
+		<name>Turn to Stone</name>
+		<artist>Electric Light Orchestra</artist>
+		<year>1972</year>
+	</song>
+	<song>
+		<genre>Hip Hop</genre>
+		<name>Moon</name>
+		<artist>Kanye West</artist>
+		<year>2021</year>
+	</song>
+	<song>
+		<genre>Jazz</genre>
+		<name>Misty</name>
+		<artist>Erroll Garner</artist>
+		<year>1959</year>
+	</song>
+	<song>
+		<genre>Rock</genre>
+		<name>Rock With You</name>
+		<artist>Michael Jackson</artist>
+		<year>1979</year>
+	</song>
+	<song>
+		<genre>Rock</genre>
+		<name>Don't Stop Me Now</name>
+		<artist>Queen</artist>
+		<year>1978</year>
+	</song> 
+	<song>
+		<genre>Hip Hop</genre>
+		<name>Empire State of Mind</name>
+		<artist>Alicia Keys</artist>
+		<year>2009</year>
+	</song>
+	<song>
+		<genre>Jazz</genre>
+		<name>Take The "A" Train</name>
+		<artist>Duke Ellington </artist>
+		<year>1941</year>
+	</song>
+	<song>
+		<genre>Rock</genre>
+		<name>Dreams</name>
+		<artist>Fleetwood Mac</artist>
+		<year>1977</year>
+	</song>
+	<song>
+		<genre>Electric Dance Music</genre>
+		<name>Material Girl</name>
+		<artist>Madonna</artist>
+		<year>1985</year>
+	</song>
+</music>
+

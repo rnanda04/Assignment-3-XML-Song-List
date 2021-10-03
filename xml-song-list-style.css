@@ -1,0 +1,30 @@
+head {
+	font-family: Verdana; 
+	display:block;
+	border: 1px;
+	margin:0.5em;
+	padding:0.5em;
+	background-color: #ffe2a8;
+}
+
+music {
+	font-size:80%;
+	margin:0.5em;
+	font-family: Verdana;
+	display:block;
+}
+song {
+	display:block;
+	border: 1px;
+	margin:0.5em;
+	padding:0.5em;
+	background-color: #a1a1a1;
+}
+
+genre, artist, name, year {
+	display:block;
+	text-align:center;
+}
+genre, artist, name, year {
+	color: #000000
+}
